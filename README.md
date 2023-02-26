@@ -1,2 +1,2 @@
-# Interview-Experience-Portal
-Interview Experience Portal using MERN stack to collect interview experiences of students during their internships or placemens. 
+# The Campus
+The Campus Portal using MERN stack to collect interview experiences of students during their internships or placements. 
